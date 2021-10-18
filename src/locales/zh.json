@@ -13,7 +13,7 @@
     "furnishing": "家具",
     "weapons": "武器",
     "artifacts": "圣遗物",
-	"fishing": "钓鱼",
+    "fishing": "钓鱼",
     "settings": "设置",
     "donate": "赞助"
   },
@@ -110,7 +110,7 @@
     "geoDamageBonus": "岩元素伤害加成",
     "sortBy": "排序方式...",
     "talentBook": "天赋书",
-	"bossItem": "Boss材料",
+    "bossItem": "Boss材料",
     "ascensionMaterial": "突破材料",
     "talentStats": "角色天赋",
     "build": "角色配装",
@@ -262,7 +262,7 @@
       "subtitle": "选择你的表格来源：",
       "default": "Paimon.moe 导出",
       "takagg": "TakaGG Gacha 导出",
-	  "genshinwishes": "GenshinWishes 导出",
+      "genshinwishes": "GenshinWishes 导出",
       "notice": [
         "此功能还在测试中，请先在设置中导出到excel进行备份！",
         "相同时间和奖励的祈愿不会被改变（不会重写已有的祈愿记录）",
@@ -566,6 +566,7 @@
     "synced": "已同步",
     "waiting": "等待中...",
     "syncing": "同步中...",
+								 
     "lastSync": "上次同步:",
     "feedback": "如果你发现一些BUG, 数据错误, 或者其他反馈, 请留言到",
     "or": "或",
@@ -577,7 +578,7 @@
       "delete": "删除",
       "reset": "重置"
     }
-	"changelog": "变更日志",
+    "changelog": "变更日志",
     "exportDescription": "您可以在此处导出和导入您的 Paimon.moe 数据",
     "exportButton": "导出和导入数据",
     "export": "导出数据",
