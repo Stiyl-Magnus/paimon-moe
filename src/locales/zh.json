@@ -13,6 +13,7 @@
     "furnishing": "家具",
     "weapons": "武器",
     "artifacts": "圣遗物",
+	"fishing": "钓鱼",
     "settings": "设置",
     "donate": "赞助"
   },
@@ -22,7 +23,7 @@
     "visitor": "过去七天有 {count} 位访客",
     "banner": {
       "featured": [
-        "可莉"
+        "优菈"
       ],
       "summoned": "被抽到",
       "percentage": "占比于 {rarity}",
@@ -109,6 +110,7 @@
     "geoDamageBonus": "岩元素伤害加成",
     "sortBy": "排序方式...",
     "talentBook": "天赋书",
+	"bossItem": "Boss材料",
     "ascensionMaterial": "突破材料",
     "talentStats": "角色天赋",
     "build": "角色配装",
@@ -260,6 +262,7 @@
       "subtitle": "选择你的表格来源：",
       "default": "Paimon.moe 导出",
       "takagg": "TakaGG Gacha 导出",
+	  "genshinwishes": "GenshinWishes 导出",
       "notice": [
         "此功能还在测试中，请先在设置中导出到excel进行备份！",
         "相同时间和奖励的祈愿不会被改变（不会重写已有的祈愿记录）",
@@ -269,6 +272,7 @@
       "selectFile": {
         "default": "拖放Paimon.moe excel 文件到此处，或点击这里选择",
         "takagg": "拖放TakaGG gacha导出的Excel文件到此处，或点击这里选择"
+		"genshinwishes": "拖放GenshinWishes导出的Excel文件到此处，或点击这里选择"
       },
       "processing": "处理中...",
       "addedOn": "插入位置",
@@ -458,7 +462,7 @@
       "desiredResin": "需求树脂",
       "or": "或",
       "inputCurrentResin": "输入当前树脂...",
-      "inputDesireResin": "输入你恢复到多少树脂...",
+      "inputDesireResin": "输入你想恢复到多少树脂...",
       "timeFormat": "en",
       "calculate": "计算",
       "currentTime": "当前时间",
@@ -573,6 +577,19 @@
       "delete": "删除",
       "reset": "重置"
     }
+	"changelog": "变更日志",
+    "exportDescription": "您可以在此处导出和导入您的 Paimon.moe 数据",
+    "exportButton": "导出和导入数据",
+    "export": "导出数据",
+    "download": "下载数据",
+    "import": "导入数据",
+    "selectFile": "选择 JSON 文件",
+    "exportInfo": "下载保存在 Paimon.moe 中的所有数据的副本",
+    "importWarning": "记得先用导出来备份你的数据！所有数据将被替换！",
+    "importContinue": "继续",
+    "importSuccess": "导入成功！ 5 秒后重新加载...",
+    "importFailed": "导入失败！",
+    "email": "Email:"
   },
   "privacypolicy": {
     "title": "隐私政策",
@@ -743,5 +760,17 @@
     "artifact": "圣遗物",
     "setPiece": "{piece}件套效果",
     "recommendedCharacter": "{piece}件套推荐角色"
+  },
+  "fishing": {
+    "title": "钓鱼手册",
+    "subtitle": "当您钓出所有鱼后，将钓鱼点标记为空，则会显示重生计时器",
+    "mondstadt": "蒙德",
+    "liyue": "漓月",
+    "inazuma": "稻妻",
+    "setEmpty": "设为空",
+    "emptyTime": "钓点恢复时间:",
+    "clear": "清除",
+    "save": "保存",
+    "cancel": "取消"
   }
 }
